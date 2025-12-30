@@ -17,4 +17,4 @@ jobs:
       with:  # all args are optional
         token: ${{ secrets.PAT }}
       #   upstream: <user>/<repo>
-      #   branch:   master
+        branch: stable

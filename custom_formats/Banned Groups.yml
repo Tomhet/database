@@ -124,11 +124,6 @@ conditions:
   pattern: MgB
   required: false
   type: release_group
-- name: NAHOM
-  negate: false
-  pattern: NAHOM
-  required: false
-  type: release_group
 - name: NhaNc3
   negate: false
   pattern: NhaNc3

@@ -1,0 +1,11 @@
+name: Italian Language
+description: ''
+tags: []
+conditions:
+- name: ITA
+  type: language
+  required: false
+  negate: false
+  language: italian
+  exceptLanguage: false
+tests: []

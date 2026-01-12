@@ -44,11 +44,6 @@ conditions:
   pattern: BOLS
   required: false
   type: release_group
-- name: BTM
-  negate: false
-  pattern: BTM
-  required: false
-  type: release_group
 - name: CLASSiCALHD
   negate: false
   pattern: CLASSiCALHD
@@ -80,10 +75,10 @@ conditions:
   required: false
   type: release_group
 - name: E
-  type: release_group
-  required: false
   negate: false
   pattern: E
+  required: false
+  type: release_group
 - name: FGT
   negate: false
   pattern: FGT

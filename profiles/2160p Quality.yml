@@ -67,7 +67,7 @@ custom_formats:
 - name: 480p WEB-DL
   score: 60000
 - name: Italian Language
-  score: 6000
+  score: 10000
 - name: Dolby Vision
   score: 3000
 - name: AMZN
@@ -273,16 +273,6 @@ qualities:
     name: Bluray-2160p
   - id: 5
     name: WEBDL-2160p
-- id: -2
-  name: 1080p Quality HDR
-  description: Indistinguishable from source
-  qualities:
-  - id: 10
-    name: Bluray-1080p
-  - id: 9
-    name: WEBDL-1080p
-  - id: 11
-    name: WEBRip-1080p
 upgrade_until:
   id: -1
   name: 2160p Quality

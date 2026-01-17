@@ -33,7 +33,7 @@ custom_formats:
 - name: 1080p Quality Tier 6
   score: 120000
 - name: Italian Language
-  score: 6000
+  score: 10000
 - name: AMZN
   score: 3000
 - name: DSNP

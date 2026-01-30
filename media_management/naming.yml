@@ -1,6 +1,6 @@
 radarr:
   rename: true
-  movieFormat: '{Movie CleanTitle} {(Release Year)} {tmdb-{TmdbId}} {edition-{Edition Tags}} {[Custom Formats]}{[Quality Full]}{[MediaInfo 3D]}{[MediaInfo VideoDynamicRangeType]}{[Mediainfo AudioCodec}{ Mediainfo AudioChannels]}{[Mediainfo VideoCodec]}{-Release Group}'
+  movieFormat: '{Movie CleanTitle} {(Release Year)} {edition-{Edition Tags}} {[Quality Title]}{[MediaInfo Simple]}{ MediaInfo AudioLanguages:IT} {- Release Group}'
   movieFolderFormat: '{Movie CleanTitle} ({Release Year}) {tmdb-{TmdbId}}'
   replaceIllegalCharacters: false
   colonReplacementFormat: smart

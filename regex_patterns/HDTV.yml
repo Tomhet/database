@@ -1,5 +1,5 @@
-name: ASL
-pattern: \b(ASL|BSL|Audio[ ._-]Description)\b
+name: HDTV
+pattern: \b(HDTV)\b
 description: ''
 tags:
 - Enhancements

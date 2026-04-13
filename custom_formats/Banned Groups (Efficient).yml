@@ -29,6 +29,11 @@ conditions:
   pattern: BiTOR
   required: false
   type: release_group
+- name: BLASPHEMY
+  type: release_group
+  required: false
+  negate: false
+  pattern: BLASPHEMY
 - name: BOLS
   negate: false
   pattern: BOLS
@@ -124,9 +129,9 @@ conditions:
   pattern: PiRaTeS
   required: false
   type: release_group
-- name: RARGB
+- name: RARBG
   negate: false
-  pattern: RARGB
+  pattern: RARBG
   required: false
   type: release_group
 - name: SasukeducK

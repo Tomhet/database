@@ -149,9 +149,9 @@ conditions:
   pattern: PSA
   required: false
   type: release_group
-- name: RARGB
+- name: RARBG
   negate: false
-  pattern: RARGB
+  pattern: RARBG
   required: false
   type: release_group
 - name: SasukeducK
